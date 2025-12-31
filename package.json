@@ -1,0 +1,53 @@
+{
+  "name": "solarized-complete",
+  "displayName": "Solarized Complete",
+  "description": "A complete and UI-accurate Solarized theme for VS Code (Workbench, Terminal, Git, Diagnostics).",
+  "version": "1.0.0",
+  "publisher": "AH-oss",
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+
+  "categories": [
+    "Themes"
+  ],
+
+  "keywords": [
+    "solarized",
+    "dark",
+    "light",
+    "theme",
+    "terminal",
+    "ui",
+    "complete"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Complete Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-complete-dark.json"
+      },
+      {
+        "label": "Solarized Complete Light",
+        "uiTheme": "vs",
+        "path": "./themes/solarized-complete-light.json"
+      }
+    ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmatilai/solarized-complete"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jmatilai/solarized-complete/issues"
+  },
+
+  "homepage": "https://github.com/jmatilai/solarized-complete#readme"
+}
