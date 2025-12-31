@@ -336,6 +336,10 @@
 		"descriptionForeground": "#93a1a1",
 		"errorForeground": "#ffeaea",
 		"widget.shadow": "#00000000",
+
+		"diffEditor.insertedTextBackground": "#85990025",
+		"diffEditor.removedTextBackground": "#dc322f25",
+		"diffEditor.diagonalFill": "#073642",
 		
 		"selection.background": "#2AA19899",
 		
