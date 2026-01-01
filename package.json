@@ -2,7 +2,7 @@
   "name": "solarized-complete",
   "displayName": "Solarized Complete",
   "description": "A complete and UI-accurate Solarized theme for VS Code (Workbench, Terminal, Git, Diagnostics).",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "publisher": "AH-oss",
   "license": "MIT",
   "icon": "icon.png",
@@ -22,7 +22,21 @@
     "theme",
     "terminal",
     "ui",
-    "complete"
+    "complete",
+    "solarized dark",
+    "solarized light",
+    "theme",
+    "color theme",
+    "ui theme",
+    "terminal theme",
+    "ansi",
+    "git",
+    "diagnostics",
+    "eye friendly",
+    "low contrast",
+    "developer theme",
+    "dark theme",
+    "light theme"
   ],
 
   "contributes": {

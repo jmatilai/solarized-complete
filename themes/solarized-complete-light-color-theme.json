@@ -382,9 +382,9 @@
 		"list.infoForeground": "#268bd2",
 		"quickInputList.focusBackground": "#eee8d5",
 
-		"scrollbarSlider.background": "#eee8d5",
-		"scrollbarSlider.hoverBackground": "#93a1a1",
-		"scrollbarSlider.activeBackground": "#839496",
+		"scrollbarSlider.background": "#93a1a177",
+		"scrollbarSlider.hoverBackground": "#93a1a199",
+		"scrollbarSlider.activeBackground": "#93a1a1AA",
 
 		"editor.background": "#fdf6e3",
 		"editor.foreground": "#657b83",
@@ -443,6 +443,9 @@
 		"activityBar.foreground": "#657b83",
 		"activityBarBadge.background": "#b58900",
 		"activityBarBadge.foreground": "#fdf6e3",
+		"activityBarTop.foreground": "#586e75",
+		"activityBarTop.activeBorder": "#268bd2",
+		"activityBarTop.inactiveForeground": "#93a1a1",
 
 		"panel.background": "#fdf6e3",
 		"panel.border": "#eee8d5",

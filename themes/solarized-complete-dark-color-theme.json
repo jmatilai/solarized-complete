@@ -337,8 +337,8 @@
 		"errorForeground": "#ffeaea",
 		"widget.shadow": "#00000000",
 
-		"diffEditor.insertedTextBackground": "#85990025",
-		"diffEditor.removedTextBackground": "#dc322f25",
+		"diffEditor.insertedTextBackground": "#85990015",
+		"diffEditor.removedTextBackground": "#dc322f15",
 		"diffEditor.diagonalFill": "#073642",
 		
 		"selection.background": "#2AA19899",
@@ -382,9 +382,9 @@
 		"list.infoForeground": "#268bd2",
 		"quickInputList.focusBackground": "#005A6F",
 
-		"scrollbarSlider.background": "#073642",
-		"scrollbarSlider.hoverBackground": "#586e75",
-		"scrollbarSlider.activeBackground": "#657b83",
+		"scrollbarSlider.background": "#586e7577",        
+		"scrollbarSlider.hoverBackground": "#586e7599",   
+		"scrollbarSlider.activeBackground": "#586e75AA",
 
 		"editor.background": "#002b36",
 		"editor.foreground": "#839496",
@@ -396,7 +396,7 @@
 		"editorLineNumber.activeForeground": "#839496",
 		"editor.selectionBackground": "#073642",
 		"editor.inactiveSelectionBackground": "#0736422f",
-		"minimap.selectionHighlight": "#274642",
+		"minimap.selectionHighlight": "#27464299",
 		"editorIndentGuide.background": "#93A1A180",
 		"editorIndentGuide.activeBackground": "#C3E1E180",
 		"editorHoverWidget.background": "#004052",
@@ -443,6 +443,9 @@
 		"activityBar.foreground": "#839496",
 		"activityBarBadge.background": "#b58900",
 		"activityBarBadge.foreground": "#002b36",
+        "activityBarTop.foreground": "#93a1a1",
+		"activityBarTop.activeBorder": "#268bd2",
+		"activityBarTop.inactiveForeground": "#586e75",
 
 		"panel.background": "#002b36",
 		"panel.border": "#073642",
